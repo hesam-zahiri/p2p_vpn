@@ -74,3 +74,7 @@ python p2p_vpn.py
        users[user_id]['peer_address'] = address
        users[user_id]['peer_public_key'] = public_key
 ```
+```
+python p2p_vpn.py
+```
+# This is a simple example of a VPN with P2P capability. However, to use this app for P2P, you need to invite other users to join your network and share their public key with you. Also, to use this app as a VPN, you need to use stronger encryption protocols.
