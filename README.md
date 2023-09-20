@@ -18,7 +18,7 @@ cd p2p_vpn
 python key.py
 ```
 ----
-```
+```python
 import torch
 import socket
 
