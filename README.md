@@ -14,3 +14,6 @@ To create a VPN server, use the PyTorch library and the UDP protocol. To do this
 ```
 cd p2p_vpn
 ```
+```
+python key.py
+```
